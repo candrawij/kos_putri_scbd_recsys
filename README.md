@@ -70,8 +70,8 @@ Kos putri SCBD/
 
 ### 1. Klon Repositori
 ```bash
-git clone https://github.com/<username-anda>/kos-putri-scbd.git
-cd kos-putri-scbd
+git clone https://github.com/<username-anda>/kos_putri_scbd_recsys.git
+cd kos_putri_scbd_recsys
 ```
 
 ### 2. Buat & Aktifkan Virtual Environment (Opsional tapi Disarankan)
